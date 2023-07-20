@@ -1,3 +1,7 @@
+// Dev:       波
+// Date:      2023/07/20
+// Function:  文字冒险游戏主程序
+
 #include<iostream>
 #include<string>
 using namespace std;
